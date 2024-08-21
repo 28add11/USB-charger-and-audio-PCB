@@ -5598,7 +5598,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_Audio:Jack_3.5mm_KoreanHropartsElec_PJ-320D-4A_Horizontal"
+		(property "Footprint" "customJack:Jack_3.5mm_KoreanHropartsElec_PJ-320D-4A_Horizontal_copy"
 			(at 85.09 142.24 0)
 			(effects
 				(font
@@ -6725,7 +6725,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
+		(property "Footprint" "JS102011SAQN:SW_JS102011SAQN"
 			(at 26.67 57.15 0)
 			(effects
 				(font
